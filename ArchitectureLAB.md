@@ -1,5 +1,32 @@
 # 🛡️ Mon Laboratoire Réseau d'Entreprise
 
+### 👋 Hi, I'm DANNON ROCK
+
+I'm passionate about **Networking, Systems Administration, Cybersecurity, and Artificial Intelligence**.
+
+I work on building, configuring, and securing IT infrastructures, while continuously exploring new technologies and strengthening my technical skills through hands-on projects and practical labs.
+
+I'm also interested in the intersection of **AI and productivity**, exploring how AI tools, LLMs, and intelligent automation can help individuals and businesses save time, optimize workflows, and work smarter.
+
+
+
+
+
+
+
+
+
+**Areas of Interest:**
+- 🌐 Network Engineering & Infrastructure
+- 🖥️ Systems Administration & Linux
+- 🔐 Cybersecurity & Infrastructure Security
+- 🤖 Artificial Intelligence, LLMs & AI Automation
+- ⚡ Productivity & Intelligent Workflows
+
+Always learning, building, experimenting, and sharing knowledge.
+
+
+
 > Architecture complète, sécurisée et supervisée — conçue pour apprendre, tester et maîtriser les technologies réseau, sécurité et supervision dans un environnement réaliste et contrôlé.
 
 Ce dépôt rassemble l'ensemble des projets réalisés dans mon laboratoire personnel : pare-feu périmétrique, Active Directory, sécurité applicative, détection d'intrusion (SIEM) et supervision d'infrastructure. Chaque brique a été montée, cassée, dépannée et documentée — cette page en donne la vue d'ensemble.
