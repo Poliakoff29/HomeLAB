@@ -112,6 +112,5 @@ Chaque projet ci-dessous a sa propre documentation complète (contexte, commande
 
 Apprendre, tester et maîtriser les technologies réseau, sécurité et supervision dans un environnement réaliste et contrôlé — avec une documentation honnête incluant les erreurs rencontrées et leur résolution, pas seulement le résultat final.
 
----
+<img width="1357" height="767" alt="Capture d&#39;écran 2026-11-02 113119" src="https://github.com/user-attachments/assets/c3b9bd49-f997-4492-be30-b7cd2d6e93d8" />
 
-*Les adresses IP, mots de passe de démonstration et noms d'hôtes sont propres à cet environnement de lab et à adapter à ton propre contexte.*
